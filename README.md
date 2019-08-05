@@ -1,6 +1,6 @@
 # Installation wizard for brightly.in
 
-The wizard installation is a recommended way to install brightly.in. It is simpler than the command-line installation and doesn't require any special skills.
+The wizard installation is simple way to install brightly.in and doesn't require any special skills.
 
 1. Prepare a directory on your server that is empty. It can be a sub-directory, domain root or a sub-domain.
 1. [Download the installer archive file](https://github.com/brightly-in/install/archive/master.zip).
